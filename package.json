@@ -10,17 +10,17 @@
   },
   "dependencies": {
     "@apollo/client": "^3.4.8",
-    "graphql": "^15.5.1",
-    "next": "^11.1.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "sharp": "^0.29.0"
+    "graphql": "^16.6.0",
+    "next": "^13.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sharp": "^0.31.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.1",
-    "eslint": "7.32.0",
-    "eslint-config-next": "11.1.0",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.4",
     "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7"
+    "tailwindcss": "^3.2.4"
   }
 }
